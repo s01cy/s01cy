@@ -1,12 +1,4 @@
 <img align="left" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
-<img align="left" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
-<img align="left" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
-<img align="left" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
-<img align="left" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
-<img align="left" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
-<img align="left" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
-<img align="left" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
-<img align="left" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
 ```diff
 <?php
 HELLO.
