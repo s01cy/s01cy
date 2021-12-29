@@ -32,7 +32,7 @@ echo($commercialExperience);
 - Tools:
 # ElasticSearch, Kibana, RabbitMQ, Redis, MySQL, PostgreSQL, MongoDB, PHPUnit, jest, Nginx, Apache
 
-+ ALWAYS UP FOR ANY $$$.  
++ ALWAYS UP FOR ANY $$$ HMU
 
 ```
 ------
