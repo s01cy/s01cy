@@ -1,5 +1,6 @@
+<div align="middle">
 <img align="middle" height="50" width="100" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
-
+</div>
 ```diff
 <?php
 HELLO.
