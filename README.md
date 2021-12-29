@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
+<img align="left" height="200" width="200" src="https://c.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
 
 ```diff
 <?php
